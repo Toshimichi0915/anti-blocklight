@@ -2,6 +2,6 @@ package net.toshimichi.abl;
 
 import net.minecraftforge.fml.common.Mod;
 
-@Mod(modid = "sushi", name = "Sushi Client", version = "1")
+@Mod(modid = "anti-blocklight", name = "ABL", version = "1")
 public class AblMod {
 }

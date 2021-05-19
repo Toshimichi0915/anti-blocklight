@@ -1,9 +1,9 @@
 [
   {
-    "modid": "sushi",
-    "name": "Sushi Client",
-    "description": "An utility client for anarchy servers",
-    "version": "1.0",
+    "modid": "anti-blocklight",
+    "name": "ABL",
+    "description": "Disables lighting update",
+    "version": "1.1",
     "mcversion": "1.12.2",
     "url": "https://toshimichi.net",
     "authorList": [
